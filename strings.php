@@ -1,3 +1,3 @@
 <?php
-echo strlen("Hello everyone!"); // outputs 12
+echo strlen("Hello this is neelima!"); // outputs 12
 ?>
